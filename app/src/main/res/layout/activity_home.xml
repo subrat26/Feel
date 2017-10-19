@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.tolkart.feel.HomeActivity">
+    tools:context="com.tolkart.feel.Activity.HomeActivity">
 
     <FrameLayout
         android:id="@+id/content"
